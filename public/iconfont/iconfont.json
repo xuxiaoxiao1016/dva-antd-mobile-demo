@@ -1,0 +1,100 @@
+{
+  "id": "2197417",
+  "name": "myDemo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18939018",
+      "name": "卡",
+      "font_class": "ka1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18939023",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "18939024",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "18939025",
+      "name": "签到",
+      "font_class": "qiandao",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "18939027",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "18939028",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "18939029",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8949026",
+      "name": "人员",
+      "font_class": "renyuan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "3262759",
+      "name": "美元 钱",
+      "font_class": "meiyuanqian",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3590928",
+      "name": "财务流水",
+      "font_class": "caiwuliushui",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9550469",
+      "name": "账单",
+      "font_class": "zhangdan",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11987053",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12470324",
+      "name": "信用卡",
+      "font_class": "ka",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
